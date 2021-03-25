@@ -1,3 +1,5 @@
+//FUNÇÃO DE CLICAR E ABRIR MODAL
+
 const modal_overlay = document.querySelector(".modal_overlay")
 const cards = document.querySelectorAll(".card")
 
@@ -15,6 +17,7 @@ close_modal.addEventListener("click", function(){
     modal_overlay.querySelector("a").src = "" 
 })
 
+//HEADER SELECIONADO COM ESTILO DIFERENTE
 const current_page = window.location.pathname
 const menu_items = window.document.querySelectorAll(" #active ")
 
