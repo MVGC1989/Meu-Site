@@ -9,7 +9,7 @@
 
 body {
     color:rgba(255, 255, 255, 0.849);
-    background-image: url("images/nick-nice-gPm8h3DS1s4-unsplash.png");
+    background-image: url("images/nick-nice-gPm8h3DS1s4-unsplash.png") ;
     background-size: cover;
     font-family: 'Vollkorn SC', serif;
     min-height: 100vh;
